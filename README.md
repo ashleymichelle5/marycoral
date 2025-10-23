@@ -8,7 +8,7 @@ A modern, fully-functional e-commerce platform dedicated to women's jewerly, des
 
 ## 🔗 Link
 
-🌐 [Live Site Link](https:/https://marycoral.com.co/)
+🌐 [Live Site Link](https://marycoral.com.co/)
 
 ---
 
