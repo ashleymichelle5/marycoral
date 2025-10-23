@@ -1,4 +1,4 @@
-#  💍 Women's Accessories E-Commerce Website
+#  💍 Mar y Coral Website
 
 ## 📋 Project Overview
 
@@ -75,20 +75,20 @@ Secure payment processing page with:
 
 ### 🖥️ Desktop View
 
-![Desktop_view](./images/store.png)
-
 - Homepage with  banner
 - Products page with filters
 - Product detail page
 
+![Desktop_view](./images/store.png)
+
 
 ### 📲 Mobile View
-
-![Mobile_view](./images/mobile.png)
 
 - Responsive navigation
 - Mobile-optimized catalog
 - WhatsApp icon
+
+![Mobile_view](./images/mobile.png)
 
 ---
 
@@ -104,12 +104,6 @@ Secure payment processing page with:
 - Desktop-enhanced experience
 - Consistent UI across all screen sizes
 - Touch-friendly navigation elements
-
-### **Product Filtering** 🎚️
-- Category-based filtering
-- Price range selection
-- Color options
-- Size availability
 
 ---
 
